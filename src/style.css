@@ -78,8 +78,15 @@ p {
     text-align: center;
     font-size: 30px;
     font-weight: 300;
-    padding-top: 5px;
+    padding-top: 7px;
     margin-top: 20px;
+    margin: 7px;
+    float:left;
+}
+
+#about-me{
+    
+    
 }
 
 .button:hover {
@@ -166,6 +173,7 @@ a {
     text-decoration: none;
     color: white;
 }
+
 
 .hamburger {
     display: none;
